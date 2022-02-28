@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Take heed in time: or, A briefe relation of many harmes which have of late been done by fire in Marlborough and in other places This copy was drawne up and printed, on purpose for the world to take notice of, and to be carefull to prevent the danger of fire. Written by L.P.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90989</idno>
+            <idno type="STC">Wing P3383A</idno>
+            <idno type="STC">ESTC R230109</idno>
+            <idno type="EEBO-CITATION">99895918</idno>
+            <idno type="PROQUEST">99895918</idno>
+            <idno type="VID">153494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90989)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Take heed in time: or, A briefe relation of many harmes which have of late been done by fire in Marlborough and in other places This copy was drawne up and printed, on purpose for the world to take notice of, and to be carefull to prevent the danger of fire. Written by L.P.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for F. Grove, and are to be sold at his shop on Snow-hill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>16[53]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is in black letter.</note>
+                  <note>Year of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153494:1"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:153494:1"/>
+            <!-- PDF PAGE 95 -->
+            <pb facs="tcp:153494:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:153494:2"/>
+            <!-- PDF PAGE 96 -->
+            <pb facs="tcp:153494:3"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:153494:3"/>
+            <!-- PDF PAGE 97 -->
+            <pb facs="tcp:153494:4"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:153494:4"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:153494:5"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:153494:5"/>
+            <!-- PDF PAGE 99 -->
+            <pb facs="tcp:153494:6"/>
+            <!-- PDF PAGE 100 -->
+            <pb facs="tcp:153494:6"/>
+            <!-- PDF PAGE 100 -->
+            <pb facs="tcp:153494:7"/>
+            <!-- PDF PAGE 101 -->
+            <pb facs="tcp:153494:7"/>
+            <!-- PDF PAGE 101 -->
+            <p>TAKE heed in time: OR, A briefe Relation of many Harmes which have of late been done by fire in MARLBOROUGH and in other places.</p>
+            <p>This copy was drawne up and Printed, on purpoſe for the World to take notice of, and to be carefull to prevent the danger of Fire.</p>
+            <p>Written by L. P.</p>
+            <p>London Printed for <hi>F. Grove,</hi> and are to be ſold at his ſhop on Snow-hill, 165<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153494:8"/>
+            <!-- PDF PAGE 102 -->
+            <pb n="3" facs="tcp:153494:8"/>
+            <!-- PDF PAGE 102 -->
+            <head>A briefe Deſcription of the Towne of MARLBOROUGH, And of the Harmes that were there done upon Thurſday the 28th of <hi>Aprill,</hi> this preſent year, 1653.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He famous and flouriſh<g ref="char:EOLhyphen"/>ing Town of Marlbo<g ref="char:EOLhyphen"/>rough in Wiltſhire had of late two faire Pa<g ref="char:EOLhyphen"/>riſh Churches, one cal<g ref="char:EOLhyphen"/>led by the name of St. Peters, and the other Church called by the name
+<pb n="4" facs="tcp:153494:9"/>
+               <!-- PDF PAGE 103 -->of St. Maries: There was like<g ref="char:EOLhyphen"/>wiſe many faire Streets and ſtately Buildings, eſpecially one gallant Street, called the High ſtreet, in which they kept their Markets, which Markets conſiſted of all kind of neceſſarie proviſions which was brought in far and near by the Coun<g ref="char:EOLhyphen"/>try people. And indeed it was a gallant place both for Corn, Butter, Cheeſe, and other ſuch like proviſi<g ref="char:EOLhyphen"/>ons as any was in all the Country: The ſtreet wherein the market was kept, is ſuppoſed to be in length and breadth fall as large as Cheape-ſide, and on both ſides had many goodly ſhops well filled with rich and coſt<g ref="char:EOLunhyphen"/>ly Commodities, Silks and Tafe<g ref="char:EOLunhyphen"/>ty, Cloath, and Lace, Linnen and Woolen, Gold and Silver, no bra<g ref="char:EOLhyphen"/>ver Wares can be had or bought in London, then was to be had in the famous Towne of Marlborough. At the upper end of the market-place
+<pb n="5" facs="tcp:153494:9"/>
+               <!-- PDF PAGE 103 -->was a gallant Building called the Town-hall, wherein the Magi<g ref="char:EOLhyphen"/>ſtrates ſat and held the Seſſions of the Peace at appointed times: There were many faire Inns. Taverns, and Victualing houſes to entertain Carriers, and Travellers, and ſuch which had occaſion to make uſe of them, for it ſtood upon the Roade betwixt London and Briſtoll: and to be briefe it was a Towne of very good Orders and Government.</p>
+            <p>And thus having told you the ſci<g ref="char:EOLhyphen"/>tuation and ſubſtance of the Town, I ſhall, with Gods leave, though with a grieved heart, declare unto you the manner of the ruine and de<g ref="char:EOLhyphen"/>ſtruſtion of the ſame.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:153494:10"/>
+               <!-- PDF PAGE 104 -->
+               <head>Here followeth a brief and true Relation, as near as it can be gathered, of the harmes that were done by fire in the Town of Marl<g ref="char:EOLhyphen"/>borough in Wiltſhire, April 28. 1653.</head>
+               <p>ON Thurſday the <hi>28</hi> of April in the houſe of one Mr. Freeman a Tanner, as ſome of his Servants were imployed with drying of Bark, the Barke took fire ſo ſuddenly, that it quickly did much harme, the houſe ſtanding on the South ſide of the ſtreet, towards the Weſt end of the Towne neare unto St. Peters Church, the fire prevatled ſo much that it tooke hold of the dwelling houſe, and ſo running a croſſe the ſtreet from one ſide to the other, it came to be of ſuch force, and vehe<g ref="char:EOLhyphen"/>mency that the like was never ſeene
+<pb n="7" facs="tcp:153494:10"/>
+                  <!-- PDF PAGE 104 -->in England before, by the report of ſome of them that were eye witneſ<g ref="char:EOLhyphen"/>ſes of that ſad obiect.</p>
+               <p>It burned on both ſides of the ſtreet, all the Inns, Tavernes, Gentlemens houſes, Shop keepers houſes, Groſers, Mercers, Habber<g ref="char:EOLhyphen"/>daſhers, all manner of Tradeſmen that were in habitants in that ſtreet, loſt both Houſes and Goods by means of that conſuming fire. Yet that was not all, it burned downe the market houſe, and run into St. Maries Pariſh, and burned the Church and many dwelling houſes in that Pariſh, ſo that in St. Pe<g ref="char:EOLhyphen"/>ters Pariſh, and St. Maries Pa<g ref="char:EOLhyphen"/>riſh, it is verified, that at leaſt three hundred Families were diſpoſſed of their habitations, all which was done in the ſpace of three or foure houres,</p>
+               <p>For when the fire had faſtened on one of the houſes where were Piles
+<pb n="8" facs="tcp:153494:11"/>
+                  <!-- PDF PAGE 105 -->of Wood and Fagots in their back<g ref="char:EOLhyphen"/>ſides, it flamed and burned ſo ſtrong<g ref="char:EOLhyphen"/>ly that all that ever could be done could not quench the fire untill it had devoured, and burnt to aſhes, all theſe places which I have here na<g ref="char:EOLhyphen"/>med.</p>
+               <p>Yet that is not all, for it was not the houſes that were burned alone, but alſo the Goods that were in them, there was Braſſe and Pew<g ref="char:EOLhyphen"/>ter, Gold, and Silver melted, the value whereof cannot bee made knowne, there was Silkes and Taffety Woollen and Linner cloth and many other rich commodities conſumed to aſhes.</p>
+               <p>There was foure or five tun of Cheeſe which was laid in ſlore in the Market houſe conſumed to no thing.</p>
+               <p>And to be breif, every man that dwelt in the Town is ſenſible of the miſery that happened, but no man
+<pb n="9" facs="tcp:153494:11"/>
+                  <!-- PDF PAGE 105 -->can tell the value of what was loſt.</p>
+               <p>And thus was the ſtately flou<g ref="char:EOLhyphen"/>riſhing Town of Marlborough con<g ref="char:EOLhyphen"/>ſumed with fire on a ſudden.</p>
+               <p>It would make a heart drop tears of blood that had but heard the dolefull cryes and heavy moanes that paſt between men and their Wives, Parents and Children. The Wife crying out to the Hus<g ref="char:EOLhyphen"/>band, O dear Husband what will become of us and our Children; The Husband auſwering the Wife we are all undone, I know not what to doe,</p>
+               <p>The Children crying for bread, the Parents had none to give them, nor ſo much as a houſe to put their heads in, nor a bed to lay their wea<g ref="char:EOLhyphen"/>ried limbs upon.</p>
+               <p>And thus were the poore made poorer, and ſome of the richeſt be<g ref="char:EOLhyphen"/>came as poor as the pooreſt.</p>
+               <pb n="10" facs="tcp:153494:12"/>
+               <!-- PDF PAGE 106 -->
+               <p>And now are they all in a ſad con<g ref="char:EOLhyphen"/>dition, the Lord in his mercy ſend them comfort. Little did they that had plenty in the morning thinke that they ſhould be made deſtitute &amp; deſolate before night. Wherefore I deſire that all good Chriſtians would both looke upon their af<g ref="char:EOLhyphen"/>flictions and lay it to heart, and with all poſſible and ſpeedy meanes that may be done, helpe to releive their wants.</p>
+               <p>Gods Word and a good conſci<g ref="char:EOLhyphen"/>ence ſayes, that hee that hath two Coats ought to give one to him that hath none. If it be ſo, I truſt that the good people, and well diſpo<g ref="char:EOLhyphen"/>ſed Chriſtians, that have plenty, wil with the eyes of compaſſion; and bountifull hearts reflect upon our diſtreſſed friends of Marlborough.</p>
+               <p>It is an old ſaying that one can<g ref="char:EOLhyphen"/>not help a great many, but a great many may help one: So I would
+<pb n="11" facs="tcp:153494:12"/>
+                  <!-- PDF PAGE 106 -->have it to be, that all the Cities and Shires in England, may forthwith lend their aſſiſtance to relieve the di<g ref="char:EOLhyphen"/>ſtreſſed people of Marlborough, and to doe by them as they themſelves would be done by if the caſe were their own.</p>
+               <p>One thing concerning Marlbo<g ref="char:EOLhyphen"/>rough we have great cauſe to give the Lord praiſe for, and that is this, al<g ref="char:EOLhyphen"/>though there were ſo many houſes burnt, and ſo much goods and trea<g ref="char:EOLhyphen"/>ſure conſumed with ſcorching fire, yet there were not many people de<g ref="char:EOLhyphen"/>ſtroyed, onely thoſe which ſhall here after be ſpoken of.</p>
+               <p>There were foure Dutch men which laboured and took pains and did their beſt endeavours to quench the fire, of which two of them were killed outright, and the other two are ſince dead of their wounds. Of o<g ref="char:EOLhyphen"/>thers there were none but a Poſt boy that loſt his life, and a Taylors
+<pb n="12" facs="tcp:153494:13"/>
+                  <!-- PDF PAGE 107 -->wife burned to death in her owne houſe, and as for Francis Freeman the Tanner, at whoſe houſe at firſt the fire began, it is ſaid that he pro<g ref="char:EOLhyphen"/>feſt himſelfe to be Chriſt. I pray God that hee may take heed in time.</p>
+               <p>Thus having told you the man<g ref="char:EOLhyphen"/>ner of the conſuming deſtruction of a late famous ancient Towne: I purpoſe alſo in a brief diſcourſe of a<g ref="char:EOLhyphen"/>nother ſtrange miſ hap done by fire in St katherines Lane near unto the Tower of London, hoping that others will take better heed in time to come.</p>
+               <p>On Friday being <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9 April a wo<g ref="char:EOLhyphen"/>man that was the mother of a child being vext with ſome of her neigh<g ref="char:EOLhyphen"/>bours ſet her child by the fire in a careleſſe manner, and went forth of the Room in anger, but before ſhee returned againe the child was mor<g ref="char:EOLhyphen"/>tally wounded with the fire, for it
+<pb n="13" facs="tcp:153494:13"/>
+                  <!-- PDF PAGE 107 -->burned off one of the Armes, and one of the Legs, and ſo mortified the body of it, that the child lived in burning miſery about the ſpace of two houres, and ſo gave up the Ghoſt. This came to paſſe through careleſneſſe, and becauſe the mother did not take heed in time.</p>
+               <p>And this was Printed for others to take example by.</p>
+               <p>Many more ſuch examples might here be ſpoken of, if occaſion ſhould ſerve and this I am verily perſwa<g ref="char:EOLhyphen"/>ded, that if people would be more carefull, there would not be halfe ſo much harme done by fire as is, there<g ref="char:EOLhyphen"/>fore I deſire all people whether they be Maſters, or Servants; Pa<g ref="char:EOLhyphen"/>rents or Children, to have ſpeciall care how you afterwards repent when it is too late. Fire and Ma<g ref="char:EOLhyphen"/>ter are ſaid to be good ſervants but ill maſters, and ſo certainly they be, for where fire can get the maſter<g ref="char:EOLhyphen"/>ſhip
+<pb n="14" facs="tcp:153494:14" rendition="simple:additions"/>
+                  <!-- PDF PAGE 108 -->all goes to ruine, fire is ſuch a devouring monſter that it takes pitty of no perſon as you have been told in the former diſcourſe.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:153494:14"/>
+               <!-- PDF PAGE 108 -->
+               <head>Here followeth a brief Re<g ref="char:EOLhyphen"/>lation of a ſad and lamentable accident which happened by fire this preſent year, 1653.</head>
+               <p>AT a gallant market Towne called Layton in Shropſhire, there dwelt and lived many wealthy Gentlemen and rich tradeſ<g ref="char:EOLhyphen"/>men, to which place often times ma<g ref="char:EOLhyphen"/>ny of the Country people which were men of rank and quality would come for recreation to eate drink and bee merry with their friends. But ſee what happened upon a time, when the people, towns men and o<g ref="char:EOLhyphen"/>thers were in the midſt of all their ioylity, ſuddenly a fearfull fire aroſe which began at a nominated place of the Town, and conſumed in little time above a hundred and fifty
+<pb n="16" facs="tcp:153494:15"/>
+                  <!-- PDF PAGE 109 -->houſes burned to aſhes, and melted Gold, Silver Plate and other goods to the worth of two and forty thou<g ref="char:EOLhyphen"/>ſand pound, thus was merriment changed into ſorrow, and their ioy into mourning, good reaſon there<g ref="char:EOLhyphen"/>fore have all men to take warning by their harmes, and ſeeke to prevent danger before it comes upon us,</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153494:15"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:153494:16"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:153494:16"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:153494:17"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:153494:17"/>
+            <!-- PDF PAGE 111 -->
+            <pb facs="tcp:153494:18"/>
+            <!-- PDF PAGE 112 -->
+            <pb facs="tcp:153494:18"/>
+            <!-- PDF PAGE 112 -->
+            <pb facs="tcp:153494:19"/>
+            <!-- PDF PAGE 113 -->
+            <pb facs="tcp:153494:19"/>
+            <!-- PDF PAGE 113 -->
+            <pb facs="tcp:153494:20"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:153494:20"/>
+            <!-- PDF PAGE 114 -->
+            <pb facs="tcp:153494:21"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:153494:21" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+         </div>
+      </body>
+   </text>
+</TEI>
